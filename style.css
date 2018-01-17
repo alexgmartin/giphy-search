@@ -1,0 +1,16 @@
+.gifElement {
+    display: inline-block;
+    margin: 10px;
+}
+
+.gifElement img {
+    height: 150px;
+}
+
+#buttonsField button {
+    margin: 5px;
+}
+
+#buttonsField {
+    margin-top: 20px;
+}
